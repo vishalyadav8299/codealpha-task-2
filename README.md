@@ -1,1 +1,1 @@
-# codealpha-task-2
+# codealpha-task-2 calculator
